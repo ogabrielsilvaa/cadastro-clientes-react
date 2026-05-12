@@ -1,4 +1,4 @@
-import FormularioCliente from "../components/FormularioCliente";
+import FormCliente from "../components/FormCliente";
 
 export default function Home() {
   return (
@@ -13,7 +13,7 @@ export default function Home() {
           </p>
         </div>
 
-        <FormularioCliente />
+        <FormCliente />
       </section>
     </main>
   )
